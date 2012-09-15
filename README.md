@@ -10,3 +10,7 @@ Statamic Kindling Base Theme
 ## Purpose
 
 This theme is intended to be a base starting point for building your custom Statamic site or theme. There is *literally* no style or layout markup of any kind within.
+
+## Theme Approach
+
+Kindling has *more* going on than necessary. Remove anythning you don't plan to use. It's easier to remove than to add. Coffeescript, Compass, Sass, just blow em away if you want. We don't mind.
