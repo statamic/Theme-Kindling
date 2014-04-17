@@ -13,4 +13,4 @@ This theme is intended to be a base starting point for building your custom Stat
 
 ## Theme Approach
 
-Kindling has *more* going on than necessary. Remove anythning you don't plan to use.
+Kindling has *more* going on than necessary. Remove anything you don't plan to use.
